@@ -84,19 +84,19 @@ Project introduction and dashboard navigation.
 ## Dashboard Preview
 
 ### Home Page
-![Home Page](Screenshots/Home.png)
+![Home Page](Screenshots/1_Home.png)
 
 ### Executive Overview
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](Screenshots/2_Executive_Overview.png)
 
 ### Customer Insights
-![Customer Insights](Screenshots/Customer_Insights.png)
+![Customer Insights](Screenshots/3_Customer_Insights.png)
 
 ### Product & Sales Analysis
-![Product & Sales Analysis](Screenshots/Product_Sales_Analysis.png)
+![Product & Sales Analysis](Screenshots/4_Product_Sales_Analysis.png)
 
 ### Business Insights & Recommendations
-![Business Insights](Screenshots/Business_Insights.png)
+![Business Insights](Screenshots/5_Business_Insights.png)
 
 ## Project Outcome
 
